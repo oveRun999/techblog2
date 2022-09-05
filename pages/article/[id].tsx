@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import { GetServerSideProps } from "next";
 import type { Article } from "../../types/article";
 import { client } from "../../libs/client";
